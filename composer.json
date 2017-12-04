@@ -1,5 +1,5 @@
 {
-  "name": "davispeixoto/laravel5-salesforce",
+  "name": "dayanstef/laravel5-salesforce",
   "description": "Laravel 5 Salesforce Force.com PHP Toolkit port",
   "keywords": [
     "laravel",
@@ -22,8 +22,8 @@
     "vlucas/phpdotenv": "~2.2"
   },
   "require-dev": {
-    "laravel/framework": "~5.0",
-    "phpunit/phpunit": "~4.0"
+    "laravel/framework": "5.5.*",
+    "phpunit/phpunit": "^6.0"
   },
   "autoload": {
     "psr-4": {
